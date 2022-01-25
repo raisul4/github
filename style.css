@@ -32,26 +32,25 @@
     height: 100%;
     width: 33%;
     float: left;
-
 }
 .A{
     text-align: center;
     font-family: sans-serif;
-    color: blueviolet;
+    color: rgb(226, 168, 43);
     font-weight: bold;
     padding-top: 25px;
 }
 .B{
     text-align: center;
     font-family: sans-serif;
-    color: blueviolet;
+    color: rgb(226, 168, 43);
     font-weight: bold;
     padding-top: 25px;
 }
 .C{
     text-align: center;
     font-family: sans-serif;
-    color: blueviolet;
+    color: rgb(226, 168, 43);
     font-weight: bold;
     padding-top: 25px;
 }
