@@ -65,5 +65,7 @@ img{
     font-weight: bold;
     background-color: cadetblue;
     font-size: 20px;
-    
+}
+p{
+    padding: 7px 7px;
 }
