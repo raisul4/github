@@ -21,6 +21,9 @@
     padding: 10px 15px;
     border-radius: 9px;
 }
+.btn:hover{
+    color: rgb(0, 255, 98);
+}
 .gallery{
    
     height: 456px;
