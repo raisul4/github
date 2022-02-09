@@ -1,6 +1,6 @@
 .root{
    
-    height: 956px;
+    height: 940px;
     width: 1000px;
     margin: 0 auto;
 }
@@ -8,7 +8,7 @@
     text-align: center;
     height: 356px;
     color: rgb(255, 255, 255);
-    background-color: cadetblue;
+    background-color: rgb(9, 66, 68);
     width: 100%;
     padding-top: 15px;
     font-family: sans-serif; 
@@ -16,7 +16,7 @@
 .btn{
     text-decoration: none;
     font-size: 25px;
-    background-color:rgb(19, 226, 53) ;
+    border: 1px solid;
     color: white;
     padding: 10px 15px;
     border-radius: 9px;
@@ -59,13 +59,27 @@ img{
     padding-top: 15px;
 }
 .footer{
-    height: 127px;
-    text-align: center;
-    color: rgb(7, 7, 7);
+    height: 87px;
+    color: rgb(255, 254, 254);
     font-weight: bold;
-    background-color: cadetblue;
-    font-size: 20px;
+    background-color: rgb(23, 78, 80);
+    padding-top: 25px;
+    position: relative;
 }
-p{
-    padding: 7px 7px;
+.footer p{
+    display: inline-block;
+    position: absolute;
+    left: 45px;
+}
+.footer ul{
+    margin: 0;
+    padding: 0;
+    left: 650px;
+    position: absolute;
+    
+}
+.footer ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 4px;
 }
